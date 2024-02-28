@@ -16,6 +16,6 @@ Welcome to the Clone Website project! This project replicates the UsabilityHub w
 The clone website aims to faithfully reproduce the design of the original UsabilityHub website, offering a visually appealing representation of its features.
 
 ## Demo
-For a live demo, check out this link 🔗: https://fahadshahbaz.github.io/Modern-clone-web/
+For a live demo, check out this link 🔗: https://modern-clone-web.vercel.app
 
 ![image](https://github.com/fahadshahbaz/Modern-clone-web/assets/139986354/cfd75023-c239-4a16-a3ca-6203b50145bf)
